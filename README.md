@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Henry Course for javascript
+This project is a test of how to create a repository and clone it to local computer
